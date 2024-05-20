@@ -10,6 +10,8 @@
 
 ### ***<sup>npm install discord.js<sup>*** ###
 
+***node index.js to run your bot***
+
 https://nodejs.org/en
 
 ## **[support server](https://discord.gg/bmf)**
