@@ -2,6 +2,12 @@
 
 ## <sub>↓ requirements ↓<sub>
 
+node.js
+
+discord.js
+
+## <sub>↓ steps ↓<sub>
+
 ### <sup>***mkdir discordbot<sup>*** ###
 
 ### <sup>***cd discordbot<sup>*** ###
