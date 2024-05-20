@@ -12,8 +12,8 @@ client.on('interactionCreate', async interaction => {
 
   const { commandName } = interaction;
 
-  if (commandName === 'command test') {
-    await interaction.reply('online');
+  if (commandName === 'command') {
+    await interaction.reply('test');
   }
 });
 
@@ -21,8 +21,8 @@ client.login(token);
 
 const commands = [
   {
-    name: 'command test',
-    description: 'online',
+    name: 'command',
+    description: 'test',
   },
 ];
 
