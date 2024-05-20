@@ -16,7 +16,7 @@ discord.js
 
 ### ***<sup>npm install discord.js<sup>*** ###
 
-***node index.js to run your bot***
+***node main.js to run your bot***
 
 https://nodejs.org/en
 
