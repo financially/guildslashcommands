@@ -1,25 +1,25 @@
-# slashcommands for guild (NOT GLOBAL)
+# guildslashcommands 
 
-## <sub>↓ requirements ↓<sub>
+## requirements
 
 node.js
 
 discord.js
 
-## <sub>↓ steps ↓<sub>
+## steps
 
-### <sup>***mkdir discordbot<sup>*** ###
+### ***mkdir discordbot<sup>*** ###
 
-### <sup>***cd discordbot<sup>*** ###
+### ***cd discordbot*** ###
 
-### <sup>***npm init -y<sup>*** ###
+### ***npm init -y*** ###
 
-### ***<sup>npm install discord.js<sup>*** ###
+### ***npm install discord.js*** ###
 
-***node main.js to run your bot***
+### ***node main.js to run your bot*** ###
 
-https://nodejs.org/en
+## https://nodejs.org/en
 
-## **[support server](https://discord.gg/YG6MxSNm38)**
+# **[support server](https://discord.gg/YG6MxSNm38)**
 
 ### ![](https://cdn.discordapp.com/attachments/1242055520450515036/1242056176305307760/Ccg_logo.webp?ex=664c7274&is=664b20f4&hm=282904fc4d0b3cd4a7d69317776ea50c3896a5e234af789486547728f0013f43&)
