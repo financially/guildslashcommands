@@ -1,4 +1,4 @@
-# slashcommands
+# slashcommands for guild (NOT GLOBAL)
 
 ## <sub>↓ requirements ↓<sub>
 
