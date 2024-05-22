@@ -3,6 +3,7 @@ const { token, clientId, guildId } = require('./config.json');
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
+// Instance
 client.once('ready', () => {
   console.log(`Logged in as ${client.user.tag}`);
 });
@@ -12,8 +13,8 @@ client.on('interactionCreate', async interaction => {
 
   const { commandName } = interaction;
 
-  if (commandName === 'command') {
-    await interaction.reply('test');
+  if (commandName === 'cmd') {
+    await interaction.reply('working');
   }
 });
 
@@ -21,13 +22,14 @@ client.login(token);
 
 const commands = [
   {
-    name: 'command',
-    description: 'test',
+    name: 'cmd',
+    description: 'working',
   },
 ];
 
 const rest = new REST({ version: '10' }).setToken(token);
 
+// Output
 (async () => {
   try {
     console.log('Started refreshing application (/) commands.');
