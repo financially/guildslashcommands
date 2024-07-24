@@ -22,8 +22,8 @@ client.login(token);
 
 const commands = [
   {
-    name: 'cmd',
-    description: 'working',
+    name: 'example',
+    description: 'example',
   },
 ];
 
